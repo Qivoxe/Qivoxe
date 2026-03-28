@@ -1,6 +1,14 @@
 # 💫 About Me:
-Hi, I'm Shivam <br><br>Mathematics and Computer Science student at  @UoD<br>I create Machine learning model and backend to stay consistent<br>I always participate in Hackathon
+Hi, I'm Shivam  
 
+Mathematics student at University of Delhi with strong interest in Quantitative Finance.  
+
+I work on:
+• Probability, Statistics & Stochastic Processes  
+• Algorithmic Trading & Market Microstructure  
+• Building data-driven models for financial markets  
+
+Currently exploring alpha generation, backtesting strategies, and risk modeling.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shivxnights) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shivam-9352b1374/) 
