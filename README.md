@@ -1,13 +1,47 @@
-# 💫 About Me:
-Hey, I'm Shivam 👋<br>A mathematics student exploring the world of AI/ML, backend engineering, and quantitative finance.<br><br>Currently building market simulations, ML projects, and Python-based systems while trying to understand how data, mathematics, and finance connect in the real world.<br><br>🔭 Building AI/ML + quant finance projects<br>🌱 Learning backend engineering, market microstructure, and machine learning systems<br>👯 Open to collaborating on Python, FastAPI, and data projects<br>💬 Ask me about Python, ML basics, linear algebra, and quant projects<br>⚡ Probably thinking about trading systems or debugging code at 2 AM<br>
+# Hi, I'm Shivam 👋 
 
+I am a Mathematics and Computer Science student focused on quantitative finance, market microstructure, and high-performance backend systems. I bridge the gap between rigorous mathematical theory and production-grade engineering.
 
-## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shiivamroy) 
+---
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+## 🔬 What I'm Focused On
+* **Quantitative Finance:** Building discrete-event market simulations, order book dynamics, and studying adverse selection/optimal execution strategies.
+* **Statistical Inference & ML:** Implementing stateful AI agents, multi-metric experimentation platforms, and applying variance reduction techniques (Delta Method).
+* **Systems & Backend:** Designing low-latency, real-time architectures using FastAPI, PostgreSQL, Redis, and containerizing workflows with Docker & Kubernetes.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+---
 
+## 🛠️ Tech Stack & Ecosystem
+
+| Layer | Technologies |
+| :--- | :--- |
+| **Languages** | Python, JavaScript (ES6+), SQL , C++|
+| **Quant & Data Science** | NumPy, Pandas, Scikit-Learn, Matplotlib, Plotly |
+| **Backend & Infrastructure** | FastAPI, PostgreSQL, MySQL, Redis, Render, Vercel |
+| **Tools & Analytics** | Git, DuckDB, Causal Inference Frameworks |
+
+---
+
+## 📈 Featured Projects
+
+* **[Market-Making Simulation](https://github.com/Qivoxe/Market-making)**
+  * *Adverse selection and optimal spread simulation.* A Python-based framework analyzing market mechanics, order flow toxicity, and price-time priority.
+* **[E-Commerce Causal Inference Platform](https://github.com/Qivoxe/E-commerce-Causal-Inference-Experimentation-Platform)**
+  * *Stateful A/B testing framework.* Implemented DuckDB analytics, Delta Method variance correction, and Sample Ratio Mismatch (SRM) diagnostics for multi-metric experimentation.
+* **[Snipify](https://github.com/Qivoxe/Snipify)**
+  * *Real-time URL shortener with analytics API.* Built with FastAPI, PostgreSQL, Redis, and Docker for fast caching and high throughput.
+
+---
+
+## 📊 Core Domain Competencies
+* **Mathematics:** Linear Algebra, Probability & Stochastic Processes, Statistics
+* **Finance:** Limit Order Book Dynamics, Market Microstructure Simulation
+* **Engineering:** Stateful Agents, Real-Time Analytics APIs, Containerized Deployments
+
+---
+
+## 🤝 Connect With Me
+* **LinkedIn:** [linkedin.com/in/shivam-9352b1374](https://linkedin.com/in/shivam-9352b1374)
+* **Email:** shivamray414@gmail.com
+
+> "I make mistakes because I'm always operating at my limit. If I only stay in comfortable territory all the time, that's not so much learning as it is repeating."
