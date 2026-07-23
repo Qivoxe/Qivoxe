@@ -122,7 +122,7 @@ I'm particularly interested in projects where mathematical reasoning and program
 ## 🤝 Connect With Me
 
 **LinkedIn:** linkedin.com/in/shivam-9352b1374
-**Email:** [shivamror2090@gmail.com](mailto:shivamror2090@gmail.com)
+**Email:** [shivamroy2090@gmail.com](mailto:shivamroy2090@gmail.com)
 
 ---
 
