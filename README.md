@@ -54,9 +54,9 @@ Currently, I'm strengthening my foundations in **machine learning and computer v
 | Scientific Computing | NumPy, SciPy, Matplotlib                      |
 | Computer Vision      | OpenCV                                        |
 | Data & Visualization | Pandas, Matplotlib, Plotly                    |
-| Backend              | FastAPI, PostgreSQL, MySQL                    |
+| Backend              | FastAPI,  MySQL                               |
 | Analytics            | DuckDB, Statistical Testing, Causal Inference |
-| Tools                | Git, GitHub, Docker, VS Code                  |
+| Tools                | Git, GitHub                |
 
 ## 🚀 Featured Projects
 
@@ -102,7 +102,7 @@ Real-time URL shortening and analytics backend built using **FastAPI, PostgreSQL
 
 Built to explore API design, caching, databases, and production-oriented backend architecture.
 
-**Focus:** Backend Engineering • FastAPI • PostgreSQL • Redis
+**Focus:** Backend Engineering • FastAPI • Redis
 
 ## 📚 Currently Learning
 
@@ -122,7 +122,7 @@ I'm particularly interested in projects where mathematical reasoning and program
 ## 🤝 Connect With Me
 
 **LinkedIn:** linkedin.com/in/shivam-9352b1374
-**Email:** [shivamray414@gmail.com](mailto:shivamray414@gmail.com)
+**Email:** [shivamror2090@gmail.com](mailto:shivamror2090@gmail.com)
 
 ---
 
