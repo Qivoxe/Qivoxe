@@ -1,16 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:0EA5E9&height=220&section=header&text=Shivam%20Roy&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20in%20the%20Making%20|%20Math%20%C3%97%20Machine%20Learning&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
-
-<a href="https://royshiv.me">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=24&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=650&lines=Turning+Math+Into+Intelligent+Systems;Linear+Algebra+%C2%B7+Probability+%C2%B7+Optimization;Building+with+PyTorch+%2B+FastAPI+%2B+LLMs;Mathematics+(Hons.)+%40+University+of+Delhi" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:0EA5E9&height=220&section=header&text=Shivam%20Roy&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Mathematics%20%C3%97%20Computer%20Science%20%C3%97%20AI&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<a href="https://royshiv.me"><img src="https://img.shields.io/badge/Portfolio-royshiv.me-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://linkedin.com/in/shivam-9352b1374"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/Qivoxe"><img src="https://img.shields.io/badge/GitHub-Qivoxe-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://royshiv.me">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=700&lines=Building+with+Math%2C+Code+%26+Curiosity;Machine+Learning+%7C+Data+%7C+Backend;Exploring+AI%2C+Quant+%26+Scientific+Computing;Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Improve" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<a href="https://royshiv.me">
+  <img src="https://img.shields.io/badge/Portfolio-royshiv.me-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/shivam-9352b1374">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/Qivoxe">
+  <img src="https://img.shields.io/badge/GitHub-Qivoxe-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Qivoxe&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS" />
 
@@ -18,189 +28,332 @@
 
 <br/>
 
-> *"Understand deeply. Build relentlessly. Improve constantly."*
->
-> Always learning. Always building. Always shipping.
+> **Learning deeply. Building consistently. Improving every iteration.**
 
-<br/>
+---
 
-## 🧬 About Me
+## 👋 About Me
+
+I'm a **Mathematics student at the University of Delhi** interested in the intersection of **mathematics, computer science, and intelligent systems**.
+
+I enjoy understanding *why* things work and then turning that understanding into something practical — whether that's an ML model, a backend service, a data system, or a simulation.
+
+Currently exploring:
+
+* 🤖 Machine Learning & Deep Learning
+* 📊 Data Analysis & Statistical Modeling
+* 🧠 LLMs & AI Applications
+* ⚙️ Backend Engineering & APIs
+* 📐 Mathematics for ML
+* 📈 Quantitative Finance & Market Microstructure
+* 🔬 Scientific Computing & Data-driven Research
+* 🧩 Data Structures & Algorithms
+
+I'm especially interested in projects where **mathematical ideas meet real systems**.
 
 ```python
 class Shivam:
-    def __init__(self):
-        self.degree      = "B.Sc. (Hons.) Mathematics, University of Delhi"
-        self.focus       = ["Machine Learning", "Deep Learning", "Scientific Computing"]
-        self.foundations = ["Linear Algebra", "Probability", "Optimization", "Numerical Methods"]
-        self.mission      = "Build powerful AI systems. Understand them deeply. Make them useful."
+    degree = "B.Sc. (Hons.) Mathematics"
+    university = "University of Delhi"
 
-    def currently_building(self):
-        return "Production-grade AI systems powered by rigorous math 🚀"
+    interests = [
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Data",
+        "Backend Engineering",
+        "Quantitative Finance",
+        "Scientific Computing"
+    ]
+
+    philosophy = "Learn → Build → Break → Improve"
 ```
 
-<br/>
+---
 
-## 🧠 What I'm Focused On
+## 🧭 What I'm Exploring
 
 <table width="100%">
 <tr>
+
 <td width="50%" valign="top">
 
-### 🤖 Machine Learning
-- Supervised & Unsupervised Learning
-- Feature Engineering
-- Model Evaluation & Optimization
-- Statistical Learning
-- End-to-End ML Systems
+### 🤖 AI & Machine Learning
 
-### 📐 Mathematics for AI
-- Linear Algebra
-- Probability & Statistics
-- Optimization Theory
-- Numerical Methods
-- Mathematical Modeling
+* Supervised & Unsupervised Learning
+* Feature Engineering
+* Model Evaluation
+* Neural Networks
+* Computer Vision
+* Representation Learning
+* LLM Applications
+* End-to-End ML Pipelines
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🧠 Deep Learning
-- Neural Networks
-- PyTorch
-- Computer Vision
-- Representation Learning
-- Large Language Models (LLMs)
+### 📐 Mathematics & Statistics
 
-### 🔭 Scientific Computing
-- Data-driven Scientific Analysis
-- Numerical Simulation
-- Astronomy & Space Data
-- High-performance Computation
+* Linear Algebra
+* Probability
+* Statistics
+* Optimization
+* Numerical Methods
+* Mathematical Modeling
+* Statistical Inference
+* Causal Inference
 
 </td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### ⚙️ Software & Data
+
+* Python Development
+* FastAPI
+* REST APIs
+* PostgreSQL
+* MySQL
+* DuckDB
+* Redis
+* Docker
+* Data Analysis
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📈 Quant & Scientific Computing
+
+* Market Microstructure
+* Market Making
+* Quantitative Modeling
+* Simulation
+* Risk & Probability
+* Scientific Data
+* Astronomy & Space Data
+
+</td>
+
 </tr>
 </table>
 
-### 💻 Software Engineering
-Backend Development (FastAPI) · System Design Fundamentals · APIs & Automation · Scalable Application Development
+---
 
-<br/>
-
-## ⚙️ Tech Stack
+## 🛠️ Technologies
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,mysql,postgres,git,github,docker,pytorch,opencv&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,postgres,mysql,git,github,docker,pytorch,opencv&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
 
 </div>
 
-<div align="center">
+---
 
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+## 🚀 Selected Projects
 
-</div>
+### 📈 Market-Making Simulator
 
-<br/>
+A quantitative trading simulation exploring **market microstructure, pricing, inventory, volatility, and market-making strategies**.
 
-## 🚀 Featured Projects
+**Focus:** `Quant Finance` `Probability` `Simulation` `Market Microstructure`
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+---
 
-### 🪐 [PlanetX — Exoplanet Detection](https://github.com/Qivoxe)
-ML pipeline to detect exoplanets from NASA light curve data.
+### 📊 Causal Inference Engine
 
-`Machine Learning` `Astronomy` `Scientific Computing`
+A statistical experimentation engine designed for reliable analysis of **A/B tests and experimental data**.
 
-</td>
-<td width="50%" valign="top">
+Includes:
 
-### 📊 [Causal Inference Engine](https://github.com/Qivoxe)
-Statistical experimentation system for reliable decision-making — Delta Method variance correction, SRM detection, multi-metric A/B testing on a DuckDB analytics engine.
+* Multi-metric experimentation
+* SRM detection
+* Delta Method variance correction
+* Statistical analysis
+* DuckDB-based analytics
 
-`Statistics` `Causal Inference` `ML Systems`
+**Focus:** `Statistics` `Causal Inference` `Experimentation` `Data Engineering`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+---
 
-### 📈 [Market-Making Simulator](https://github.com/Qivoxe)
-Simulated market microstructure to study pricing, volatility, and trading strategies.
+### 🪐 PlanetX — Exoplanet Detection
 
-`Quant Finance` `Probability` `Simulation`
+An ML pipeline for identifying potential exoplanet signals from **astronomical light-curve data**.
 
-</td>
-<td width="50%" valign="top">
+Combines machine learning with scientific computing to work with real-world space data.
 
-### 🔗 [Snipify](https://github.com/Qivoxe)
-Production-grade URL shortener with analytics and a scalable backend.
+**Focus:** `Machine Learning` `Astronomy` `Scientific Computing`
+
+---
+
+### 🔗 Snipify
+
+A production-oriented URL shortening service with analytics and a scalable backend architecture.
 
 **Stack:** `FastAPI` `PostgreSQL` `Redis` `Docker`
 
-</td>
-</tr>
-</table>
+**Focus:** `Backend Engineering` `APIs` `Databases` `System Design`
+
+---
+
+## 🧪 I Like Building Things That...
+
+* turn mathematical ideas into working software
+* solve problems with data rather than assumptions
+* make experiments more reliable
+* simulate systems before deploying them
+* connect theory with real-world applications
+* teach me something while I'm building them
+
+---
+
+## 🏆 Beyond Projects
+
+I also enjoy participating in **hackathons, technical challenges, and collaborative building**.
+
+Hackathons are one of my favourite ways to take an idea from:
+
+**Problem → Research → Prototype → Debug → Demo**
+
+They've taught me a lot about building under constraints, working with unfamiliar technologies, and actually shipping instead of endlessly planning.
+
+---
+
+## 🧠 Problem Solving
+
+I regularly work on **Data Structures & Algorithms** to strengthen my problem-solving fundamentals.
+
+```text
+DSA
+ ├── Arrays & Strings
+ ├── Hashing
+ ├── Linked Lists
+ ├── Stacks & Queues
+ ├── Trees & Graphs
+ ├── Dynamic Programming
+ └── Problem Solving
+```
+
+For me, DSA isn't separate from development — it's part of learning how to think clearly about problems.
+
+---
+
+## 📚 Currently Learning
+
+<div align="center">
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Deepening-0EA5E9?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Exploring-0EA5E9?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-Hands--on-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLM%20Applications-Building-0EA5E9?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Learning-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-Practicing-0EA5E9?style=for-the-badge)
+
+</div>
 
 <br/>
+
+I'm currently focused on getting stronger at the **fundamentals behind the tools** rather than simply collecting technologies.
+
+---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Qivoxe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=0EA5E9&text_color=c9d1d9" />
+
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qivoxe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&text_color=c9d1d9" />
 
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Qivoxe&theme=tokyonight&hide_border=true&background=0D1117&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9" />
 
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Qivoxe&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=0EA5E9&line=0EA5E9&point=ffffff" width="100%"/>
 
 </div>
 
-<br/>
+---
 
-## 📚 Currently Learning
+## 🎯 Long-Term Direction
+
+I want to become an **AI/ML Engineer with strong mathematical and engineering fundamentals**.
+
+I'm particularly interested in building systems at the intersection of:
+
+```text
+             Mathematics
+                  │
+                  ▼
+        Statistics & Probability
+                  │
+                  ▼
+          Machine Learning
+                  │
+          ┌───────┴────────┐
+          ▼                ▼
+       AI Systems       Quant / Data
+          │                │
+          └───────┬────────┘
+                  ▼
+          Real-World Software
+```
+
+The goal isn't just to use AI libraries.
+
+It's to understand the **mathematics, algorithms, systems, and trade-offs** behind them — and use that knowledge to build things that are genuinely useful.
+
+---
+
+## 🌱 Outside the Code
+
+I'm still figuring things out.
+
+Some weeks it's DSA.
+Some weeks it's ML.
+Some weeks it's SQL.
+Sometimes it's a completely random project that sounded interesting at 2 AM.
+
+That's part of the fun.
+
+**Learn something → build something → make mistakes → improve → repeat.**
+
+---
+
+## 📫 Let's Connect
 
 <div align="center">
 
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Advanced-0EA5E9?style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/PyTorch-Hands--on-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLM%20Applications-Building-0EA5E9?style=for-the-badge)
-![CV](https://img.shields.io/badge/Computer%20Vision-Exploring-0EA5E9?style=for-the-badge)
-![DSA](https://img.shields.io/badge/DSA-Sharpening-0EA5E9?style=for-the-badge)
+<a href="https://royshiv.me">
+<img src="https://img.shields.io/badge/Portfolio-royshiv.me-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-</div>
+<a href="https://linkedin.com/in/shivam-9352b1374">
+<img src="https://img.shields.io/badge/LinkedIn-Shivam%20Roy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<br/>
-
-## 🎯 Goal
-
-To become an **AI Engineer** who builds intelligent, production-ready systems powered by strong mathematics and deep understanding of machine learning — building real AI systems, mastering deep learning, working on LLM-based applications, and solving meaningful, real-world problems.
-
-<br/>
-
-<div align="center">
-
-### 📫 Let's Connect
-
-<a href="https://linkedin.com/in/shivam-9352b1374"><img src="https://img.shields.io/badge/-Shivam%20Roy-0A66C2?style=social&logo=linkedin"/></a>
-<a href="https://royshiv.me"><img src="https://img.shields.io/badge/-Portfolio-000000?style=social&logo=vercel"/></a>
-<a href="https://github.com/Qivoxe"><img src="https://img.shields.io/badge/-Qivoxe-000000?style=social&logo=github"/></a>
+<a href="https://github.com/Qivoxe">
+<img src="https://img.shields.io/badge/GitHub-Qivoxe-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:0F172A&height=100&section=footer" width="100%"/>
 
 </div>
-
-
