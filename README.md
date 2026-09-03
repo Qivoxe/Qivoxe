@@ -1,340 +1,159 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:0EA5E9&height=220&section=header&text=Shivam%20Roy&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Mathematics%20%C3%97%20Computer%20Science%20%C3%97%20AI&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,50:7928CA,100:0EA5E9&height=200&section=header&text=SHIVAM%20ROY&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=math%20×%20code%20×%20alternate%20timelines&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+
+<a href="https://royshiv.me">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=2600&pause=1000&color=FF0080&center=true&vCenter=true&width=600&lines=entering+dimension%3A+DELHI-1618;compiling+timelines...;math.exe+launched;no+cutscenes%2C+just+builds" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<a href="https://royshiv.me">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=700&lines=Building+with+Math%2C+Code+%26+Curiosity;Machine+Learning+%7C+Data+%7C+Backend;Exploring+AI%2C+Quant+%26+Scientific+Computing;Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Improve" alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
-<a href="https://royshiv.me">
-  <img src="https://img.shields.io/badge/Portfolio-royshiv.me-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/shivam-9352b1374">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/Qivoxe">
-  <img src="https://img.shields.io/badge/GitHub-Qivoxe-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Qivoxe&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS" />
+<a href="https://royshiv.me"><img src="https://img.shields.io/badge/portfolio-royshiv.me-FF0080?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://linkedin.com/in/shivam-9352b1374"><img src="https://img.shields.io/badge/linkedin-connect-7928CA?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Qivoxe"><img src="https://img.shields.io/badge/github-Qivoxe-0EA5E9?style=flat-square&logo=github&logoColor=white"/></a>
 
 </div>
 
 <br/>
 
-> **Learning deeply. Building consistently. Improving every iteration.**
+> every build is a different universe where the bug doesn't exist yet.
 
----
+<br/>
 
-## 👋 About Me
+## ↳ about
 
-I'm a **Mathematics student at the University of Delhi** interested in the intersection of **mathematics, computer science, and intelligent systems**.
+Math student at University of Delhi, currently stitching together **ML, backend systems, and quant finance** into one coherent multiverse instead of picking a single timeline.
 
-I enjoy understanding *why* things work and then turning that understanding into something practical — whether that's an ML model, a backend service, a data system, or a simulation.
-
-Currently exploring:
-
-* 🤖 Machine Learning & Deep Learning
-* 📊 Data Analysis & Statistical Modeling
-* 🧠 LLMs & AI Applications
-* ⚙️ Backend Engineering & APIs
-* 📐 Mathematics for ML
-* 📈 Quantitative Finance & Market Microstructure
-* 🔬 Scientific Computing & Data-driven Research
-* 🧩 Data Structures & Algorithms
-
-I'm especially interested in projects where **mathematical ideas meet real systems**.
+I don't collect frameworks. I collect the reason behind them.
 
 ```python
-class Shivam:
-    degree = "B.Sc. (Hons.) Mathematics"
-    university = "University of Delhi"
-
-    interests = [
-        "Machine Learning",
-        "Artificial Intelligence",
-        "Data",
-        "Backend Engineering",
-        "Quantitative Finance",
-        "Scientific Computing"
-    ]
-
-    philosophy = "Learn → Build → Break → Improve"
+class Shivam(Multiverse):
+    canon = "B.Sc. (Hons.) Mathematics, University of Delhi"
+    variants = ["ML", "backend", "quant"]
+    loop = "learn → build → break → improve"
 ```
 
----
+<br/>
 
-## 🧭 What I'm Exploring
+## ↳ dimensions I move through
 
-<table width="100%">
-<tr>
+<details>
+<summary><b>AI / ML</b></summary>
+<br/>
 
-<td width="50%" valign="top">
+supervised & unsupervised learning · feature engineering · model evaluation · neural nets · computer vision · representation learning · LLM applications · end-to-end pipelines
 
-### 🤖 AI & Machine Learning
+</details>
 
-* Supervised & Unsupervised Learning
-* Feature Engineering
-* Model Evaluation
-* Neural Networks
-* Computer Vision
-* Representation Learning
-* LLM Applications
-* End-to-End ML Pipelines
+<details>
+<summary><b>math & stats</b></summary>
+<br/>
 
-</td>
+linear algebra · probability · optimization · numerical methods · statistical inference · causal inference
 
-<td width="50%" valign="top">
+</details>
 
-### 📐 Mathematics & Statistics
+<details>
+<summary><b>software & data</b></summary>
+<br/>
 
-* Linear Algebra
-* Probability
-* Statistics
-* Optimization
-* Numerical Methods
-* Mathematical Modeling
-* Statistical Inference
-* Causal Inference
+Python · FastAPI · REST APIs · PostgreSQL · MySQL · DuckDB · Redis · Docker
 
-</td>
+</details>
 
-</tr>
+<details>
+<summary><b>quant / scientific computing</b></summary>
+<br/>
 
-<tr>
+market microstructure · market making · simulation · risk & probability · astronomical data
 
-<td width="50%" valign="top">
+</details>
 
-### ⚙️ Software & Data
+<br/>
 
-* Python Development
-* FastAPI
-* REST APIs
-* PostgreSQL
-* MySQL
-* DuckDB
-* Redis
-* Docker
-* Data Analysis
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📈 Quant & Scientific Computing
-
-* Market Microstructure
-* Market Making
-* Quantitative Modeling
-* Simulation
-* Risk & Probability
-* Scientific Data
-* Astronomy & Space Data
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 🛠️ Technologies
+## ↳ stack
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=python,cpp,js,postgres,mysql,git,github,docker,pytorch,opencv&theme=dark" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
-
-</div>
-
----
-
-## 🚀 Selected Projects
-
-### 📈 Market-Making Simulator
-
-A quantitative trading simulation exploring **market microstructure, pricing, inventory, volatility, and market-making strategies**.
-
-**Focus:** `Quant Finance` `Probability` `Simulation` `Market Microstructure`
-
----
-
-### 📊 Causal Inference Engine
-
-A statistical experimentation engine designed for reliable analysis of **A/B tests and experimental data**.
-
-Includes:
-
-* Multi-metric experimentation
-* SRM detection
-* Delta Method variance correction
-* Statistical analysis
-* DuckDB-based analytics
-
-**Focus:** `Statistics` `Causal Inference` `Experimentation` `Data Engineering`
-
----
-
-### 🪐 PlanetX — Exoplanet Detection
-
-An ML pipeline for identifying potential exoplanet signals from **astronomical light-curve data**.
-
-Combines machine learning with scientific computing to work with real-world space data.
-
-**Focus:** `Machine Learning` `Astronomy` `Scientific Computing`
-
----
-
-### 🔗 Snipify
-
-A production-oriented URL shortening service with analytics and a scalable backend architecture.
-
-**Stack:** `FastAPI` `PostgreSQL` `Redis` `Docker`
-
-**Focus:** `Backend Engineering` `APIs` `Databases` `System Design`
-
----
-
-## 🧪 I Like Building Things That...
-
-* turn mathematical ideas into working software
-* solve problems with data rather than assumptions
-* make experiments more reliable
-* simulate systems before deploying them
-* connect theory with real-world applications
-* teach me something while I'm building them
-
----
-
-## 🏆 Beyond Projects
-
-I also enjoy participating in **hackathons, technical challenges, and collaborative building**.
-
-Hackathons are one of my favourite ways to take an idea from:
-
-**Problem → Research → Prototype → Debug → Demo**
-
-They've taught me a lot about building under constraints, working with unfamiliar technologies, and actually shipping instead of endlessly planning.
-
----
-
-## 🧠 Problem Solving
-
-I regularly work on **Data Structures & Algorithms** to strengthen my problem-solving fundamentals.
-
-```text
-DSA
- ├── Arrays & Strings
- ├── Hashing
- ├── Linked Lists
- ├── Stacks & Queues
- ├── Trees & Graphs
- ├── Dynamic Programming
- └── Problem Solving
-```
-
-For me, DSA isn't separate from development — it's part of learning how to think clearly about problems.
-
----
-
-## 📚 Currently Learning
-
-<div align="center">
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Deepening-0EA5E9?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Exploring-0EA5E9?style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/PyTorch-Hands--on-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLM%20Applications-Building-0EA5E9?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Learning-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-Practicing-0EA5E9?style=for-the-badge)
-
 </div>
 
 <br/>
 
-I'm currently focused on getting stronger at the **fundamentals behind the tools** rather than simply collecting technologies.
+## ↳ signals from other builds
 
----
+**PlanetX** — exoplanet detection pipeline, ISRO × Hack2Skill Hackathon
+`FastAPI` `Next.js` `Random Forest, 97% accuracy vs WASP-126b`
 
+**ProofMesh** — AI-powered digital evidence integrity platform
+`FastAPI` `OpenCV` `PyMuPDF` `Tesseract OCR` `React 19 + Vite`
 
-## 🎯 Long-Term Direction
+**Market-Making Simulator** — pricing, inventory & volatility under a market-making strategy
+`Quant Finance` `Probability` `Simulation`
 
-I want to become an **AI/ML Engineer with strong mathematical and engineering fundamentals**.
+**Causal Inference Engine** — experimentation engine for A/B tests: SRM detection, Delta Method variance correction
+`Statistics` `Causal Inference` `DuckDB`
 
-I'm particularly interested in building systems at the intersection of:
+**Snipify** — URL shortener with analytics on a production-shaped backend
+`FastAPI` `PostgreSQL` `Redis` `Docker`
 
-```text
-             Mathematics
-                  │
-                  ▼
-        Statistics & Probability
-                  │
-                  ▼
-          Machine Learning
-                  │
-          ┌───────┴────────┐
-          ▼                ▼
-       AI Systems       Quant / Data
-          │                │
-          └───────┬────────┘
-                  ▼
-          Real-World Software
+<br/>
+
+## ↳ problem solving
+
+```
+arrays & strings → hashing → linked lists → stacks/queues → trees & graphs → DP
 ```
 
-The goal isn't just to use AI libraries.
+not separate from building — it's how I learn to think about a problem before I touch code.
 
-It's to understand the **mathematics, algorithms, systems, and trade-offs** behind them — and use that knowledge to build things that are genuinely useful.
+<br/>
 
----
+## ↳ currently rendering
 
-## 🌱 Outside the Code
+`ML — deepening` · `deep learning — exploring` · `PyTorch — hands-on` · `LLM apps — building` · `PostgreSQL — learning` · `DSA — practicing`
 
-I'm still figuring things out.
+more interested in the fundamentals behind the tools than in collecting more tools.
 
-Some weeks it's DSA.
-Some weeks it's ML.
-Some weeks it's SQL.
-Sometimes it's a completely random project that sounded interesting at 2 AM.
+<br/>
 
-That's part of the fun.
+## ↳ where this converges
 
-**Learn something → build something → make mistakes → improve → repeat.**
+```
+mathematics → statistics & probability → machine learning
+                                             │
+                              ┌──────────────┴──────────────┐
+                              ▼                              ▼
+                          AI systems                    quant / data
+                              │                              │
+                              └──────────────┬───────────────┘
+                                              ▼
+                                    real-world software
+```
 
----
+goal isn't to call the library. it's to know what happens if you didn't have it.
 
-## 📫 Let's Connect
+<br/>
+
+## ↳ off the clock
+
+no fixed script — some weeks it's DSA, some weeks it's ML, some weeks it's a 2am idea that shouldn't have worked but did.
+
+<br/>
+
+## ↳ pull up
 
 <div align="center">
 
-<a href="https://royshiv.me">
-<img src="https://img.shields.io/badge/Portfolio-royshiv.me-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/shivam-9352b1374">
-<img src="https://img.shields.io/badge/LinkedIn-Shivam%20Roy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Qivoxe">
-<img src="https://img.shields.io/badge/GitHub-Qivoxe-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://royshiv.me"><img src="https://img.shields.io/badge/portfolio-royshiv.me-FF0080?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://linkedin.com/in/shivam-9352b1374"><img src="https://img.shields.io/badge/linkedin-Shivam%20Roy-7928CA?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Qivoxe"><img src="https://img.shields.io/badge/github-Qivoxe-0EA5E9?style=flat-square&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:0F172A&height=100&section=footer" width="100%"/>
+<img src="https://komarev.com/ghpvc/?username=Qivoxe&style=flat-square&color=FF0080&label=views+across+timelines" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:7928CA,100:FF0080&height=100&section=footer" width="100%"/>
 
 </div>
