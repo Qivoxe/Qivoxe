@@ -12,11 +12,15 @@
 <a href="https://linkedin.com/in/shivam-9352b1374"><img src="https://img.shields.io/badge/linkedin-connect-7928CA?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/Qivoxe"><img src="https://img.shields.io/badge/github-Qivoxe-0EA5E9?style=flat-square&logo=github&logoColor=white"/></a>
 
+<br/><br/>
+
+<img src="assets/spider-cage.svg" width="180" alt="spider in a web-cage"/>
+
 </div>
 
 <br/>
 
-> every build is a different universe where the bug doesn't exist yet.
+> stuck in my own web on purpose — every strand is a project I haven't broken yet.
 
 <br/>
 
@@ -151,6 +155,10 @@ no fixed script — some weeks it's DSA, some weeks it's ML, some weeks it's a 2
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Qivoxe&style=flat-square&color=FF0080&label=views+across+timelines" />
+
+<br/><br/>
+
+<img src="assets/spider-cage.svg" width="90" alt="spider in a web-cage"/>
 
 <br/><br/>
 
