@@ -13,7 +13,6 @@
 <a href="https://github.com/Qivoxe"><img src="https://img.shields.io/badge/github-Qivoxe-0EA5E9?style=flat-square&logo=github&logoColor=white"/></a>
 
 <br/><br/>
-
 <img src="assets/spider-cage.svg" width="180" alt="spider in a web-cage"/>
 
 </div>
@@ -158,7 +157,6 @@ no fixed script — some weeks it's DSA, some weeks it's ML, some weeks it's a 2
 
 <br/><br/>
 
-<img src="assets/spider-cage.svg" width="90" alt="spider in a web-cage"/>
 
 <br/><br/>
 
