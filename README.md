@@ -13,7 +13,6 @@
 <a href="https://github.com/Qivoxe"><img src="https://img.shields.io/badge/github-Qivoxe-0EA5E9?style=flat-square&logo=github&logoColor=white"/></a>
 
 <br/><br/>
-<img src="assets/spider-cage.svg" width="180" alt="spider in a web-cage"/>
 
 </div>
 
@@ -143,19 +142,6 @@ no fixed script — some weeks it's DSA, some weeks it's ML, some weeks it's a 2
 
 <br/>
 
-## ↳ pull up
-
-<div align="center">
-
-<a href="https://royshiv.me"><img src="https://img.shields.io/badge/portfolio-royshiv.me-FF0080?style=flat-square&logo=vercel&logoColor=white"/></a>
-<a href="https://linkedin.com/in/shivam-9352b1374"><img src="https://img.shields.io/badge/linkedin-Shivam%20Roy-7928CA?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/Qivoxe"><img src="https://img.shields.io/badge/github-Qivoxe-0EA5E9?style=flat-square&logo=github&logoColor=white"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Qivoxe&style=flat-square&color=FF0080&label=views+across+timelines" />
-
-<br/><br/>
 
 
 <br/><br/>
