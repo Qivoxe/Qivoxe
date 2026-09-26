@@ -45,7 +45,7 @@ Breast Cancer Prediction	End-to-end ML: SVM with tuning, honest evaluation, mode
 
 06 · CURRENTLY
 
-Building: interfaces & ML systems worth shipping  ·  Learning: deep learning, transformers, quantitative methods  ·  Reading: papers, then reproducing them
+Building: interfaces & ML systems worth shipping · Learning: deep learning, transformers, quantitative methods · Reading: papers, then reproducing them
 
 > I want to understand not only how a model works, but why —
 and then build the interface that makes it usable.
