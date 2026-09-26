@@ -1,58 +1,53 @@
-<div align="center">
+01 · ABOUT
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,50:7928CA,100:0EA5E9&height=180&section=header&text=SHIVAM%20ROY&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=mathematics%20×%20machine%20learning%20×%20research&descAlignY=58&descSize=15&animation=fadeIn" width="100%"/>
+B.Sc. (Hons.) Mathematics · University of Delhi · expected 2028
 
-<a href="https://royshiv.me">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=16&duration=2800&pause=1000&color=FF0080&center=true&vCenter=true&width=600&lines=mathematics+%E2%86%92+machine+learning;learning+to+do+research;understand+%E2%86%92+implement+%E2%86%92+experiment" alt="Typing SVG"/>
-</a>
-
-<br/>
-
-<a href="https://royshiv.me"><img src="https://img.shields.io/badge/portfolio-royshiv.me-FF0080?style=flat-square&logo=vercel&logoColor=white"/></a> <a href="https://linkedin.com/in/shivam-9352b1374"><img src="https://img.shields.io/badge/linkedin-connect-7928CA?style=flat-square&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/Qivoxe"><img src="https://img.shields.io/badge/github-Qivoxe-0EA5E9?style=flat-square&logo=github&logoColor=white"/></a>
-
-</div>
-
-## About
-
-**B.Sc. (Hons.) Mathematics · University of Delhi**
-
-I am interested in **Machine Learning and AI research**, particularly at the intersection of mathematical foundations, statistical learning, and deep learning.
-
-My current focus is on understanding models beyond their implementations—through **mathematical analysis, experimentation, and research paper reproduction**.
+I build for the web and train models that ship. Frontend engineering is my strongest skill —
+polished, responsive interfaces in React — and machine learning is where my mathematics
+background does the talking: data pipelines, scikit-learn models, and models served behind
+FastAPI endpoints.
 
 ```text
-Mathematics → Statistics & Optimization → Machine Learning → AI Research
+Mathematics → Programming → Frontend Engineering → Machine Learning → Real Products
 ```
 
-## Research Interests
+02 · WHAT I DO
 
-`Machine Learning` · `Deep Learning` · `Representation Learning`
-`Computer Vision` · `Statistical Learning` · `Causal Inference`
+		
+Frontend	React interfaces, component architecture, responsive design, API integration, performance-conscious UI	
+Machine Learning	preprocessing, feature engineering, SVM / Random Forest / neural nets, evaluation, deployment	
+Backend	FastAPI services, PostgreSQL, Redis, Docker — the plumbing behind both	
+Freelance	client work via Contra — websites, frontend builds, data analysis, automation	
 
-## Selected Work
+03 · TECH
 
-**Causal Inference Engine**
-Statistical experimentation framework for A/B testing and causal analysis.
+Frontend
 
-**PlanetX**
-Machine learning pipeline for exoplanet detection using astronomical data.
+Backend
 
-**Market-Making Simulator**
-Simulation-based study of pricing, inventory, volatility, and risk.
+Machine Learning
 
-## Currently
+Tools
 
-**Learning:** PyTorch · Deep Learning · Transformers
-**Research:** Paper reading · Reproduction · Experimental ML
+04 · SELECTED WORK
 
-<br/>
+Project	What it is	Stack	Links	
+ProofMesh	AI-assisted evidence integrity platform for forensic analysis of images & PDFs — full-stack product	FastAPI · React · CV · OCR	[Demo](https://proof-mesh-ewoo6yjwc-shivamroy.vercel.app/) · [Repo](https://github.com/Qivoxe/ProofMesh)	
+PlanetX	ML pipeline detecting exoplanet transits in NASA TESS light curves — ISRO × Hack2Skill	Python · BLS · Random Forest	—	
+Snipify	Production-style URL shortener with caching and containerized deployment	FastAPI · PostgreSQL · Redis · Docker	—	
+Market-Making Simulator	Avellaneda–Stoikov simulation of pricing, inventory & risk — research, not a live trading system	Python · NumPy · Probability	[Repo](https://github.com/Qivoxe/Market-making)	
+Breast Cancer Prediction	End-to-end ML: SVM with tuning, honest evaluation, model served via FastAPI	scikit-learn · Pandas · FastAPI	—	
 
-> *I want to understand not only how a model works, but why.*
+05 · EXPERIENCE
 
-<br/>
+- Freelance Developer — via Contra · 2025 — present · frontend builds, data analysis, automation for clients
+- Participant — ISRO × Hack2Skill Hackathon · built PlanetX, exoplanet transit detection on TESS data
 
-<div align="center">
+06 · CURRENTLY
 
-**[Portfolio](https://royshiv.me) · [LinkedIn](https://linkedin.com/in/shivam-9352b1374) · [GitHub](https://github.com/Qivoxe)**
+Building: interfaces & ML systems worth shipping  ·  Learning: deep learning, transformers, quantitative methods  ·  Reading: papers, then reproducing them
 
-</div>
+> I want to understand not only how a model works, but why —
+and then build the interface that makes it usable.
+
+[Portfolio](https://royshiv.me) · [LinkedIn](https://linkedin.com/in/shivam-9352b1374) · [GitHub](https://github.com/Qivoxe) · [Email](mailto:shivamthechad@gmail.com)
