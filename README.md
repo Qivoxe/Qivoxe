@@ -52,7 +52,7 @@ Axioms → Proofs → Algorithms → Models → Production
 
 ## 03 · AI / ML Engineering
 
-<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,fastapi,docker,kubernetes,postgres,redis,kafka,linux,git,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,opencv,fastapi,postgres,redis,linux,git,bash&theme=dark" />
 
 **Modeling & Theory**
 
