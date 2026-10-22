@@ -60,10 +60,9 @@ Axioms → Proofs → Algorithms → Models → Production
 
 **Serving & Infrastructure** *(the boring part, done rigorously)*
 
-<img src="https://img.shields.io/badge/FastAPI-0a0a0e?style=for-the-badge&logo=fastapi&logoColor=009688"/> <img src="https://img.shields.io/badge/Docker-0a0a0e?style=for-the-badge&logo=docker&logoColor=2496ED"/> <img src="https://img.shields.io/badge/Kubernetes-0a0a0e?style=for-the-badge&logo=kubernetes&logoColor=326CE5"/> <img src="https://img.shields.io/badge/PostgreSQL-0a0a0e?style=for-the-badge&logo=postgresql&logoColor=4169E1"/> <img src="https://img.shields.io/badge/Redis-0a0a0e?style=for-the-badge&logo=redis&logoColor=DC382D"/> <img src="https://img.shields.io/badge/Prometheus-0a0a0e?style=for-the-badge&logo=prometheus&logoColor=E6522C"/> <img src="https://img.shields.io/badge/GitHub_Actions-0a0a0e?style=for-the-badge&logo=githubactions&logoColor=2088FF"/
-<br/>
+<img src="https://img.shields.io/badge/FastAPI-0a0a0e?style=for-the-badge&logo=fastapi&logoColor=009688"/> <img src="https://img.shields.io/badge/Docker-0a0a0e?style=for-the-badge&logo=docker&logoColor=2496ED"/> 
 
-## 07 · Currently
+## 04 · Currently
 
 **Researching:** generalization bounds · Gaussian processes · stochastic calculus
 **Building:** models with proofs of behavior, not just leaderboard scores
